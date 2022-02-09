@@ -1,4 +1,5 @@
 print("Hello World")
+print("Hello World 2")
 
 x = 5
 y = 6
